@@ -117,7 +117,7 @@ Shared this project on LinkedIn to engage the data science community:
 > Scraped Flipkart’s laptop listings with `requests` and `BeautifulSoup`, analyzed `flipkart_laptop12.csv` with Python, and visualized trends with `seaborn` and `matplotlib`.\
 ****Findings**: Mid-range laptops (₹20,000–₹60,000) dominate, 8GB RAM gets \~20–25% discounts, and 512GB SSDs lead (\~50–60%). ASUS and Lenovo models shine in reviews!\
 > Thanks to **Baljinder Kaur** for guidance. Excited for feedback and ideas on ML or dashboards! 🔗 #DataScience #WebScraping #Python #EDA\
-> \[https://shorturl.at/TAkJx\]
+> \[[https://shorturl.at/TAkJx](https://shorturl.at/rXPUc)\]
 
 ## Prerequisites
 
@@ -230,7 +230,7 @@ For questions or feedback:
 
 - **Name**: \[SHUBHAM\]
 - **Email**: \[shubhamkuya@example.com\]
-- **LinkedIn**: \[https://shorturl.at/TAkJx\]
+- **LinkedIn**: \[[https://shorturl.at/TAkJx](https://shorturl.at/rXPUc)\]
 - **GitHub**: \[https://github.com/shubham0915\]
 
 ---
