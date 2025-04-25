@@ -75,4 +75,4 @@ df = pd.DataFrame({
     "Offer": offers,
 })
 df.to_csv("flipkart_laptops12.csv", index=False)
-print("📦 Data saved to 'flipkart_laptops.csv'.")
+print("📦 Data saved to 'flipkart_laptops12.csv'.")
