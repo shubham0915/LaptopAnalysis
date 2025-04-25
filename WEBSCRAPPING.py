@@ -5,7 +5,7 @@ import time
 import urllib3
 import random
 
-# Disable SSL warnings
+# Disable SSL warnings 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # 🔁 User agent list for rotation
@@ -17,7 +17,7 @@ user_agents = [
     "Mozilla/5.0 (iPad; CPU OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1"
 ]
 
-
+#goood reuest
 # Function to return a random user-agent
 def get_random_headers():
     return {"User-Agent": random.choice(user_agents)}
