@@ -6,7 +6,7 @@
 ![Course](https://img.shields.io/badge/Course-INT375-blue)
 ![Institution](https://img.shields.io/badge/Institution-LPU-orange)
 
-
+ 
 ## Project Overview
 
 This project, completed as part of the **INT375 course** at **Lovely Professional University** (January–April 2025), analyzes laptop listings from Flipkart to uncover pricing trends, hardware preferences, and consumer insights in the budget and mid-range market (≤₹1,00,000). Under the guidance of **Baljinder Kaur**, the project leverages **web scraping**, **exploratory data analysis (EDA)**, and **data visualization** using Python to process the `flipkart_laptop12.csv` dataset, scraped from Flipkart’s website. Six objectives drive the analysis, delivering actionable insights through visualizations like histograms, box plots, and pie charts. This work showcases proficiency in data extraction, cleaning, analysis, and visualization, with potential for predictive modeling and interactive tools.
