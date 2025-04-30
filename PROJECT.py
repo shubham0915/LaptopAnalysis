@@ -114,7 +114,9 @@ plt.ylabel('Product')
 plt.tight_layout()
 plt.show()
 
+
 # Objective 5: Price vs. Rating
+
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x='Price', y='Rating', data=df_clean, alpha=0.6, color='purple')
 sns.regplot(x='Price', y='Rating', data=df_clean, scatter=False, color='black')
