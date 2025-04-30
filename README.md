@@ -188,6 +188,8 @@ budget-laptop-market-analysis/
 2. **EDA and Visualization**:
 
    - Open `notebooks/analysis.ipynb` in Jupyter Notebook or run `scripts/analysis.py`.
+  
+
    - The script loads `flipkart_laptop12.csv`, preprocesses data, and generates six visualizations saved to `visualizations/`.
 
 3. **Output**:
