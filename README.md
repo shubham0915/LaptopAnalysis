@@ -232,8 +232,8 @@ This project is licensed under the MIT License. See LICENSE for details.
 For questions or feedback:
 
 - **Name**: \[SHUBHAM\]
-- **Email**: \[shubhamkuya@example.com\]
-- **LinkedIn**: \[[https://shorturl.at/TAkJx](https://shorturl.at/rXPUc)\]
+- **Email**: \[shubhamkuya@gmail.com\]
+- **LinkedIn**: \[[https://www.linkedin.com/in/shubhamk9/](https://www.linkedin.com/in/shubhamk9/)\]
 - **GitHub**: \[https://github.com/shubham0915\]
 
 ---
